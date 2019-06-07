@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { snapshotToArray } from '../../app/env';
 
 @Component({
   selector: 'app-list',
